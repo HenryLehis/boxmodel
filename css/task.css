@@ -10,7 +10,7 @@ body {
 .mainDiv {
     width: 600px;
     height: 600px;
-    background-color: black;
+    background-color: rgb(11, 131, 243);
     margin: 0 auto;
     font-size: 0;
 }
@@ -19,21 +19,41 @@ body {
     height: 200px; 
     border: 2px solid black;
     box-sizing: border-box;
-    display: inline-block; 
+    display: inline-block;
+}
+.red1{
+    
+    background-color: red;
     border-radius: 50%
 }
 .red{
     
     background-color: red;
-    
 }
-.yellow{
+.yellow1{
     
     background-color: yellow;
-    
+    border-radius: 50%
+}
+.yellow2{
+    background-color: yellow;
+}
+
+
+.yellow3{
+    background-color: yellow;
 }
 
 .green{
     background-color: green;
+    
+}
+.green2{
+    background-color: green;
+    
+}
+.green3{
+    background-color: green;
+    border-radius: 50%
     
 }
